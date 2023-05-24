@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+.navbar{
+	background-color: #011e29;
+  color: #f5f5f5;
+  text-align: center;
+  padding: 10px;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color:#f5f5f5;
+  }
+.title h1{
+	text-align:center;
+	
+	
+}
+.article{
+	vertical-align:top;
+  display:inline-block;
+  width:30%;
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius:20px;
+}
+.main-article{
+	vertical-align:top;
+  background-color: white;
+  display:inline-block;
+  width:40%;
+  padding: 20px;
+  border-radius:20px;
+}
+.news{
+	vertical-align:top;
+  display:inline-block;
+  background-color: white;
+  width:20%;
+  padding: 20px;
+  text-align: center;
+  border-radius:20px;
+}
